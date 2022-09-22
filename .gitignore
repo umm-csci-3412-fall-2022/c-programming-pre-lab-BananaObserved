@@ -138,4 +138,6 @@ tags
 # Persistent undo
 [._]*.un~
 
+.pat
+
 # End of https://www.toptal.com/developers/gitignore/api/c,code,emacs,vim
